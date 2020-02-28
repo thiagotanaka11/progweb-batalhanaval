@@ -49,3 +49,8 @@ As seguintes pessoas contribuiram para este projeto:
 * [Meu nome](https://github.com/meu_nome)
 * *.... (liste todos os membros da equipe)*
 
+## Licença de uso
+
+<!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
+Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
+*Você também deve criar um arquivo chamado LICENSE no projeto*

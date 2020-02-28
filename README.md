@@ -28,3 +28,16 @@ Linux e/ou macOS:
 Windows (opcional):
 ```
 <commandos>
+```
+
+## Usando Nome_da_Aplicação
+
+Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+
+* Abra o navegador e digite o seguinte endereço: `http://localhost/....`
+* Ao abrir a aplicação você poderá:
+  * Navegar pelo conteúdo público, ou
+  * Entrar com usuário e senha para ....
+* Continua ...  
+
+*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*

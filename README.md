@@ -38,6 +38,14 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 * Ao abrir a aplicação você poderá:
   * Navegar pelo conteúdo público, ou
   * Entrar com usuário e senha para ....
-* Continua ...  
+* *Continua ...*  
 
 *Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
+
+## Contribuidores
+
+As seguintes pessoas contribuiram para este projeto:
+
+* [Meu nome](https://github.com/meu_nome)
+* *.... (liste todos os membros da equipe)*
+

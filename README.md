@@ -12,3 +12,19 @@ Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 * Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
 * Você deve ler o `<guia/link/documentação>` dos termos de uso.
 * (outros ...)
+
+## Como executar
+
+Para fazer o deploy da aplicação siga os seguintes passos:
+
+Linux e/ou macOS:
+```
+<commando 1>
+<commando 2>
+....
+<commando n>
+```
+
+Windows (opcional):
+```
+<commandos>

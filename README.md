@@ -6,7 +6,7 @@
 
 Batalha Naval é uma aplicação web que tem por objetivo simular um ambiente de jogo, onde o jogo é batalha naval. 
 
-Coloque aqui linhas adicionais com informações sobre o que a aplicação faz. Sua introdução deve ser de no máximo 3 parágrafos, seja simples e objetivo para não sobrecarregar de detalhes desnecessários este espaço. Se necessário, crie novas seções abaixo.
+A aplicação é capaz de simular um ambiente de jogo de batalha naval.
 
 ## Pré-requisitos
 
@@ -34,9 +34,9 @@ Windows (opcional):
 <commandos>
 ```
 
-## Usando Nome_da_Aplicação
+## Usando Batalha Naval
 
-Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
+Para usar Batalha Naval, siga os seguintes passos (exemplos):
 
 * Abra o navegador e digite o seguinte endereço: `http://localhost/....`
 * Ao abrir a aplicação você poderá:
@@ -50,8 +50,9 @@ Para usar Nome_da_Aplicação, siga os seguintes passos (exemplos):
 
 As seguintes pessoas contribuiram para este projeto:
 
-* [Meu nome](https://github.com/meu_nome)
-* *.... (liste todos os membros da equipe)*
+* [Thiago Tanaka](https://github.com/thiagotanaka11)
+* [Felipe de Sousa Sovernigo](https://github.com/sovernigo)
+* [Arthur Leal Reis Queiroz](https://github.com/arthurlrq)
 
 ## Licença de uso
 

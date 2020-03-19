@@ -52,6 +52,7 @@ As seguintes pessoas contribuiram para este projeto:
 * [Thiago Tanaka](https://github.com/thiagotanaka11)
 * [Felipe de Sousa Sovernigo](https://github.com/sovernigo)
 * [Arthur Leal Reis Queiroz](https://github.com/arthurlrq)
+* [João Vitor Gazola](https://github.com/joaovitorgazola)
 
 ## Licença de uso
 

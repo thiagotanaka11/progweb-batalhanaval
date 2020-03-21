@@ -14,8 +14,7 @@ Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
 * Você deve possuir a última versão do `<linguagem/dependencia/etc>` instalado.
 * Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
-* Você deve ler o `<guia/link/documentação>` dos termos de uso.
-* (outros ...)
+
 
 ## Como executar
 
@@ -43,8 +42,6 @@ Para usar Batalha Naval, siga os seguintes passos (exemplos):
   * Jogar uma partida de batalha naval.
   
 
-*Descreva as principais atividades, e/ou fluxos, que são possíveis de serem realizadas na aplicação.*
-
 ## Contribuidores
 
 As seguintes pessoas contribuiram para este projeto:
@@ -58,5 +55,5 @@ As seguintes pessoas contribuiram para este projeto:
 ## Licença de uso
 
 <!--- Se não tiver certeza de qual, verifique este site: https://choosealicense.com/--->
-Este projeto usa a seguinte licença: [<nome_da_licenca>](<link>).
-*Você também deve criar um arquivo chamado LICENSE no projeto*
+Este projeto usa a seguinte licença: [MIT License](https://choosealicense.com/licenses/mit/).
+

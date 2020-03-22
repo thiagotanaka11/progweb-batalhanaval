@@ -12,7 +12,7 @@ A aplicação é capaz de simular um ambiente de jogo de batalha naval.
 
 Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a última versão do `<linguagem/dependencia/etc>` instalado.
+* Você deve possuir a última versão do `<PHP>` instalado.
 * Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
 
 

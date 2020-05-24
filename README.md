@@ -12,32 +12,26 @@ A aplicação é capaz de simular um ambiente de jogo de batalha naval.
 
 Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a última versão do `<PHP>` instalado.
-* Você deve possuir uma máquina `<Windows/Linux/Mac>`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
+* Você deve possuir a versão v10.12.0 do `Node.js` instalado.
+* Você deve possuir a versão 8.2.2 do `Angular.js` instalado.
+* Você deve possuir a versão 6.4.1 ou superior do `NPM` instalado.
+* Você deve possuir uma máquina `Windows, Mac ou Linux`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
 
 
 ## Como executar
 
 Para fazer o deploy da aplicação siga os seguintes passos:
 
-Linux e/ou macOS:
+Todos SO`s:
 ```
-<commando 1>
-<commando 2>
-....
-<commando n>
-```
-
-Windows (opcional):
-```
-<commandos>
+ng serve (dentro da pasta batalha-naval)
 ```
 
 ## Usando Batalha Naval
 
 Para usar Batalha Naval, siga os seguintes passos (exemplos):
 
-* Abra o navegador e digite o seguinte endereço: `http://localhost/....`
+* Abra o navegador e digite o seguinte endereço: `http://localhost/4200`
 * Ao abrir a aplicação você poderá:
   * Jogar uma partida de batalha naval.
   

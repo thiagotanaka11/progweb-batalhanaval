@@ -12,9 +12,9 @@ A aplicação é capaz de simular um ambiente de jogo de batalha naval.
 
 Antes de iniciar, certifique-se de cumprir os seguintes requisitos:
 <!--- Estes são alguns exemplos de requisitos. Adicione, duplique e remove como necessário --->
-* Você deve possuir a versão v10.12.0 do `Node.js` instalado.
-* Você deve possuir a versão 8.2.2 do `Angular.js` instalado.
+* Você deve possuir a versão v10.12.0 ou superior do `Node.js` instalado.
 * Você deve possuir a versão 6.4.1 ou superior do `NPM` instalado.
+* Você deve possuir a versão 8.2.2 do `Angular.js` instalado. (npm install -g @angular/cli@8.2.2)
 * Você deve possuir uma máquina `Windows, Mac ou Linux`. (Deixe claro qual SO é possível rodar a aplicação, Linux é obrigatório).
 
 

@@ -31,7 +31,7 @@ ng serve (dentro da pasta batalha-naval)
 
 Para usar Batalha Naval, siga os seguintes passos (exemplos):
 
-* Abra o navegador e digite o seguinte endereço: `http://localhost/4200`
+* Abra o navegador e digite o seguinte endereço: `http://localhost:4200`
 * Ao abrir a aplicação você poderá:
   * Jogar uma partida de batalha naval.
   

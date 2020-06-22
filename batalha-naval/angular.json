@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "batalha-naval"
+  "defaultProject": "batalha-naval",
+  "cli": {
+    "analytics": "51328296-b618-43f6-beb1-e64519b7d693"
+  }
 }

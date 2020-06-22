@@ -1,0 +1,23 @@
+body.home {
+    height: 30em;
+    position: absolute
+}
+body.home {
+    margin: 0;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+button.botao {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+button.botao {
+    font-size: large;
+}

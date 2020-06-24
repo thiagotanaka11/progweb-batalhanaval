@@ -1,15 +1,22 @@
+html.all{
+    background-image: url(https://i.pinimg.com/564x/25/63/70/256370cdecd83f703322412538845db2.jpg);
+}
 body.home {
     height: 30em;
     position: absolute
 }
 body.home {
     margin: 0;
-    background: white;
     position: absolute;
     top: 50%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
+}
+body.home {
+    font-family: 'Courier New';
+    font-size: larger;
+    color: rgb(21, 0, 141);
 }
 button.botao {
     position: absolute;
@@ -19,5 +26,6 @@ button.botao {
     transform: translate(-50%, -50%)
 }
 button.botao {
+    color: rgb(21, 0, 141);
     font-size: large;
 }

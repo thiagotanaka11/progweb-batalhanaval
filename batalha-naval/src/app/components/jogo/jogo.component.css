@@ -1,0 +1,37 @@
+html.all{
+    background-image: url(https://imagens.climatempo.com.br/climapress/galeria/2016/05/a8bef25854a1f7e8555341b9efaf5e66.jpg);
+    background-size: 1450px;
+}
+body.jogo {
+    height: 30em;
+    position: absolute
+}
+body.jogo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+button.botao {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+button.botao {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: "Papyrus", fantasy;
+    line-height: 135px;
+    background:url(https://cdn.pixabay.com/photo/2013/07/12/12/46/war-ship-146209_960_720.png);
+    width: 200px;
+    height: 100px;
+    object-fit: fill;
+    background-size: 200px;
+}

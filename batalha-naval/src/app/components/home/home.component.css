@@ -1,5 +1,6 @@
 html.all{
-    background-image: url(https://i.pinimg.com/564x/25/63/70/256370cdecd83f703322412538845db2.jpg);
+    background-image: url(https://imagens.climatempo.com.br/climapress/galeria/2016/05/a8bef25854a1f7e8555341b9efaf5e66.jpg);
+    background-size: 1450px;
 }
 body.home {
     height: 30em;
@@ -14,18 +15,28 @@ body.home {
     transform: translate(-50%, -50%)
 }
 body.home {
-    font-family: 'Courier New';
-    font-size: larger;
-    color: rgb(21, 0, 141);
+    font-family: "Papyrus", fantasy;
+    font-size: x-large;
+    color: rgb(17, 5, 87);
 }
 button.botao {
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
 button.botao {
-    color: rgb(21, 0, 141);
-    font-size: large;
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: "Papyrus", fantasy;
+    line-height: 220px;
+    background:url(https://cdn.pixabay.com/photo/2013/07/12/12/46/war-ship-146209_960_720.png);
+    width:325px;
+    height:180px;
+    object-fit: fill;
+    background-size: 325px;
 }
